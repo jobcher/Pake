@@ -2,10 +2,10 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_32.ico"
+        "png/jobcher_256.ico",
+        "png/jobcher_32.ico"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.jobcher.blog",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
