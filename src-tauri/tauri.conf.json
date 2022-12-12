@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
-    "version": "1.0.0"
+    "productName": "jobcher",
+    "version": "1.0.1"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://www.jobcher.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
