@@ -11,7 +11,7 @@
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/jobcher_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
