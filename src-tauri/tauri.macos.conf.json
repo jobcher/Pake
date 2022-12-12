@@ -4,7 +4,7 @@
       "icon": [
         "icons/jobcher.icns"
       ],
-      "identifier": "com.jobcher.blog",
+      "identifier": "com.jobcher.nav",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",

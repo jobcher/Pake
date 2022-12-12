@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Categories=Office
-Exec=com-tw93-weread
-Icon=com-tw93-weread
-Name=com-tw93-weread
-Name[zh_CN]=微信阅读
+Categories=Nav
+Exec=com-jobcher-nav
+Icon=com-jobcher-nav
+Name=com-jobcher-nav
+Name[zh_CN]=导航
 StartupNotify=true
 Terminal=false
 Type=Application

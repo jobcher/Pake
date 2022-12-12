@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "jobcher",
-    "version": "1.0.1"
+    "productName": "jobnav",
+    "version": "1.0.2"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://www.jobcher.com/",
+        "url": "https://nav.jobcher.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
